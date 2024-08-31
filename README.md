@@ -1,21 +1,26 @@
-# Kevin Salamanca
+# ¡Hola! 👋
 
-Hola, me llamo Kevin Salamanca. Soy una persona autodidacta a la que le encanta aprender nuevas tecnologías y herramientas por mi cuenta.
+Mi nombre es Kevin Salamanca. Soy una persona autodidacta, y me encanta aprender nuevas tecnologías y herramientas por mi cuenta.
 
-## Conocimientos
+## Conocimientos 💻
 
-Aquí algunos de los conocimientos que he adquirido:
+### Frontend 🌐
+- HTML
+- CSS
+- Bootstrap
+- Tailwind CSS
+- React
 
-- 🌐 **HTML**
-- 🎨 **CSS**
-- 🅱️ **Bootstrap**
-- 🌀 **Tailwind CSS**
-- ⚛️ **React**
-- 📜 **JavaScript**
-- ⌨️ **TypeScript**
-- 🔗 **API REST**
-- 🌐 **GraphQL**
-- 🚀 **NestJS**
-- 🖧 **Microservices**
-- 🐳 **Docker**
-- ☁️ **Amazon Web Services (AWS)**
+### Lenguajes 📝
+- JavaScript
+- TypeScript
+
+### Backend 🔙
+- API REST
+- GraphQL
+- NestJS
+- Microservicios
+- Docker
+
+### Servicios en la nube ☁️
+- Amazon Web Services (AWS)
