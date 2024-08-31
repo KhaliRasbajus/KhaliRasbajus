@@ -4,6 +4,11 @@ Mi nombre es Kevin Salamanca. Soy una persona autodidacta, y me encanta aprender
 
 ## Conocimientos 💻
 
+### Lenguajes 📝
+- JavaScript
+- TypeScript
+
+
 ### Frontend 🌐
 - HTML
 - CSS
@@ -11,9 +16,6 @@ Mi nombre es Kevin Salamanca. Soy una persona autodidacta, y me encanta aprender
 - Tailwind CSS
 - React
 
-### Lenguajes 📝
-- JavaScript
-- TypeScript
 
 ### Backend 🔙
 - API REST
@@ -21,6 +23,7 @@ Mi nombre es Kevin Salamanca. Soy una persona autodidacta, y me encanta aprender
 - NestJS
 - Microservicios
 - Docker
+
 
 ### Servicios en la nube ☁️
 - Amazon Web Services (AWS)
